@@ -26,10 +26,6 @@ cu.measure('dist', 2, 'm').result['km'] # returns the converted value of 2 meter
 
 [API Documentation](https://github.com/shuhulkaul/unitconversionAPI/)
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 ## Types
 
 > 1.  **_dist_** Distance
@@ -269,3 +265,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - **_gb_** ----> GB
 
 - **_tb_** ----> TB
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
