@@ -28,7 +28,7 @@ cu.measure('dist', 2, 'm').result['km'] # returns the converted value of 2 meter
 
 ## Types
 
-> 1.  **_dist_** Distance
+> **_dist_** Distance
 
 - **_mic_** ----> Micron
 
@@ -60,7 +60,7 @@ cu.measure('dist', 2, 'm').result['km'] # returns the converted value of 2 meter
 
 - **_ly_** ----> Light Years
 
-> 2.  **_area_** Area
+> **_area_** Area
 
 - **_sqmm_** ----> Sq. Millimeter
 
@@ -82,7 +82,7 @@ cu.measure('dist', 2, 'm').result['km'] # returns the converted value of 2 meter
 
 - **_sqmi_** ----> Sq. Miles
 
-> 3.  **_vol_** Volume
+> **_vol_** Volume
 
 - **_ml_** ----> Milliliters (cc)
 
@@ -108,7 +108,7 @@ cu.measure('dist', 2, 'm').result['km'] # returns the converted value of 2 meter
 
 - **_galus_** ----> Gallon (US)
 
-> 4. **_mass_** Mass
+> **_mass_** Mass
 
 - **_micg_** ----> Micrograms
 
@@ -134,7 +134,7 @@ cu.measure('dist', 2, 'm').result['km'] # returns the converted value of 2 meter
 
 - **_stuk_** ----> Long Tons (UK)
 
-> 5. **_speed_** Speed
+> **_speed_** Speed
 
 - **_mps_** ----> Meter per sec
 
@@ -146,7 +146,7 @@ cu.measure('dist', 2, 'm').result['km'] # returns the converted value of 2 meter
 
 - **_kt_** ----> Knots
 
-> 6. **_time_** Time
+> **_time_** Time
 
 - **_ns_** ----> Nanoseconds
 
@@ -168,7 +168,7 @@ cu.measure('dist', 2, 'm').result['km'] # returns the converted value of 2 meter
 
 - **_yrj_** ----> Years (Julian)
 
-> 7. **_force_** Force
+> **_force_** Force
 
 - **_micn_** ----> Micro-newtons
 
@@ -182,7 +182,7 @@ cu.measure('dist', 2, 'm').result['km'] # returns the converted value of 2 meter
 
 - **_lbf_** ----> Pound Force
 
-> 8. **_press_** Pressure
+> **_press_** Pressure
 
 - **_pa_** ----> Pascal
 
@@ -206,7 +206,7 @@ cu.measure('dist', 2, 'm').result['km'] # returns the converted value of 2 meter
 
 - **_torr_** ----> Torr
 
-> 9. **_energy_** Energy
+> **_energy_** Energy
 
 - **_j_** ----> Joules
 
@@ -222,7 +222,7 @@ cu.measure('dist', 2, 'm').result['km'] # returns the converted value of 2 meter
 
 - **_btu_** ----> BTU
 
-> 10. **_power_** Power
+> **_power_** Power
 
 - **_w_** ----> Watts
 
@@ -238,7 +238,7 @@ cu.measure('dist', 2, 'm').result['km'] # returns the converted value of 2 meter
 
 - **_hpm_** ----> Horsepower (metric)
 
-> 11.**_temp_** Temperature
+> **_temp_** Temperature
 
 - **_c_** ----> Celsius
 
@@ -246,7 +246,7 @@ cu.measure('dist', 2, 'm').result['km'] # returns the converted value of 2 meter
 
 - **_k_** ----> Kelvin
 
-> 12. **_data_** Data Size
+> **_data_** Data Size
 
 - **_b_** ----> B
 

@@ -1,6 +1,6 @@
 {
   "name": "unit-conversion-pkg",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Unit Conversion Node.js package",
   "main": "index.js",
   "repository": {
